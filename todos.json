@@ -9,3 +9,4 @@
 {"id":0,"title":"Kaffee trinken","description":"Später erledigen","finished":false,"priority":"High","created_at":"2025-06-30T19:22:44.611675907Z","due_date":"2025-08-10"}
 {"id":0,"title":"Doku lesen","description":"Später erledigen","finished":false,"priority":"Low","created_at":"2025-06-30T19:22:48.274121875Z","due_date":"2025-06-30"}
 {"id":0,"title":"Doku lesen","description":null,"finished":false,"priority":"Low","created_at":"2025-06-30T19:22:52.062735903Z","due_date":"2025-08-10"}
+{"id":0,"title":"Aufräumen","description":"Optional","finished":false,"priority":"Low","created_at":"2025-06-30T19:22:55.953250036Z","due_date":null}
