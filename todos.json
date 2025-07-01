@@ -1,16 +1,4 @@
-{"id":0,"title":"hu3","description":null,"finished":false,"priority":"Low","created_at":"2025-06-30T19:13:37.744162566Z","due_date":null}
-{"id":1,"title":"hu4","description":null,"finished":false,"priority":"High","created_at":"2025-06-30T19:16:51.687759927Z","due_date":null}
-{"id":2,"title":"hu5","description":null,"finished":false,"priority":"Low","created_at":"2025-06-30T19:17:02.077612217Z","due_date":null}
-{"id":3,"title":"Meeting vorbereiten","description":"Mit Deadline","finished":false,"priority":"Low","created_at":"2025-06-30T19:22:25.368731286Z","due_date":null}
-{"id":4,"title":"Code review","description":null,"finished":false,"priority":"High","created_at":"2025-06-30T19:22:29.024033036Z","due_date":"2025-06-30"}
-{"id":5,"title":"Kaffee trinken","description":"Dringend","finished":false,"priority":"High","created_at":"2025-06-30T19:22:32.607766752Z","due_date":null}
-{"id":6,"title":"Kaffee trinken","description":"Testen","finished":false,"priority":"Medium","created_at":"2025-06-30T19:22:36.506838461Z","due_date":"2025-09-20"}
-{"id":7,"title":"Bericht schreiben","description":null,"finished":false,"priority":"High","created_at":"2025-06-30T19:22:40.125539258Z","due_date":"2025-08-10"}
-{"id":8,"title":"Kaffee trinken","description":"Später erledigen","finished":false,"priority":"High","created_at":"2025-06-30T19:22:44.611675907Z","due_date":"2025-08-10"}
-{"id":9,"title":"Doku lesen","description":"Später erledigen","finished":false,"priority":"Low","created_at":"2025-06-30T19:22:48.274121875Z","due_date":"2025-06-30"}
-{"id":10,"title":"Doku lesen","description":null,"finished":false,"priority":"Low","created_at":"2025-06-30T19:22:52.062735903Z","due_date":"2025-08-10"}
-{"id":11,"title":"Aufräumen","description":"Optional","finished":false,"priority":"Low","created_at":"2025-06-30T19:22:55.953250036Z","due_date":null}
-{"id":12,"title":"Doku lesen","description":"Testen","finished":false,"priority":"Low","created_at":"2025-06-30T19:22:59.948884746Z","due_date":"2025-08-10"}
-{"id":13,"title":"test123","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:35:08.017518914Z","due_date":null}
-{"id":14,"title":"idj","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:41:59.115146472Z","due_date":null}
-{"id":0,"title":"zzd","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:03:16.661653654Z","due_date":null}
+{"id":0,"title":"test123","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:35:08.017518914Z","due_date":null}
+{"id":1,"title":"idj","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:41:59.115146472Z","due_date":null}
+{"id":2,"title":"zzd","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:03:16.661653654Z","due_date":null}
+{"id":0,"title":"merg","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:38:32.372704129Z","due_date":null}
