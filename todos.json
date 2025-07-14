@@ -1,19 +1,19 @@
-{"id":0,"title":"test123","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:35:08.017518914Z","due_date":null}
-{"id":1,"title":"idj","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:41:59.115146472Z","due_date":null}
-{"id":2,"title":"zzd","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:03:16.661653654Z","due_date":null}
-{"id":3,"title":"merge1","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:56:50.471588949Z","due_date":null}
-{"id":4,"title":"Doku lesen","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T15:19:10.731812473Z","due_date":"2025-07-15"}
 {"id":5,"title":"Aufräumen","description":null,"finished":false,"priority":"Medium","created_at":"2025-07-14T15:19:14.209246084Z","due_date":null}
-{"id":6,"title":"Backup machen","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T15:19:17.486243131Z","due_date":"2025-09-20"}
 {"id":7,"title":"Aufräumen","description":"Testen","finished":false,"priority":"Low","created_at":"2025-07-14T15:19:21.173898831Z","due_date":null}
-{"id":8,"title":"Bericht schreiben","description":"Mit Deadline","finished":false,"priority":"Low","created_at":"2025-07-14T15:19:24.754614157Z","due_date":null}
-{"id":9,"title":"Bug fixen","description":"Später erledigen","finished":false,"priority":"Low","created_at":"2025-07-14T15:19:28.341439697Z","due_date":null}
+{"id":6,"title":"Backup machen","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T15:19:17.486243131Z","due_date":"2025-09-20"}
 {"id":10,"title":"Backup machen","description":null,"finished":false,"priority":"High","created_at":"2025-07-14T15:19:31.615658461Z","due_date":null}
-{"id":11,"title":"Bug fixen","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T15:19:34.790326332Z","due_date":null}
+{"id":8,"title":"Bericht schreiben","description":"Mit Deadline","finished":false,"priority":"Low","created_at":"2025-07-14T15:19:24.754614157Z","due_date":null}
 {"id":12,"title":"Bericht schreiben","description":null,"finished":false,"priority":"Medium","created_at":"2025-07-14T15:19:38.477149728Z","due_date":"2025-09-20"}
-{"id":13,"title":"lokal","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:35:08.017518914Z","due_date":null}
-{"id":14,"title":"REMOOOO","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:56:50.471588949Z","due_date":null}
+{"id":9,"title":"Bug fixen","description":"Später erledigen","finished":false,"priority":"Low","created_at":"2025-07-14T15:19:28.341439697Z","due_date":null}
+{"id":11,"title":"Bug fixen","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T15:19:34.790326332Z","due_date":null}
+{"id":4,"title":"Doku lesen","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T15:19:10.731812473Z","due_date":"2025-07-15"}
+{"id":1,"title":"idj","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:41:59.115146472Z","due_date":null}
 {"id":15,"title":"letzterTest","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T16:57:12.338635349Z","due_date":null}
 {"id":16,"title":"letzterTestt","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T16:59:22.814788735Z","due_date":null}
 {"id":17,"title":"letzterTestt2","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T17:00:34.198136794Z","due_date":null}
-{"id":0,"title":"mergeTest","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T17:23:23.888301765Z","due_date":null}
+{"id":13,"title":"lokal","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:35:08.017518914Z","due_date":null}
+{"id":3,"title":"merge1","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:56:50.471588949Z","due_date":null}
+{"id":18,"title":"mergeTest","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T17:23:23.888301765Z","due_date":null}
+{"id":14,"title":"REMOOOO","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:56:50.471588949Z","due_date":null}
+{"id":0,"title":"test123","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:35:08.017518914Z","due_date":null}
+{"id":2,"title":"zzd","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:03:16.661653654Z","due_date":null}
