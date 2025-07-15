@@ -1,4 +1,4 @@
-{"id":0,"title":"0","description":null,"finished":false,"priority":"Medium","created_at":"2025-07-14T15:19:14.209246084Z","due_date":null}
+{"id":0,"title":"erster","description":null,"finished":false,"priority":"Medium","created_at":"2025-07-14T15:19:14.209246084Z","due_date":null}
 {"id":1,"title":"1","description":"Testen","finished":false,"priority":"Low","created_at":"2025-07-14T15:19:21.173898831Z","due_date":null}
 {"id":2,"title":"0000","description":null,"finished":false,"priority":"Medium","created_at":"2025-07-14T15:19:14.209246084Z","due_date":null}
 {"id":3,"title":"1111","description":"Testen","finished":false,"priority":"Low","created_at":"2025-07-14T15:19:21.173898831Z","due_date":null}
@@ -6,7 +6,7 @@
 {"id":5,"title":"Backup machen","description":null,"finished":false,"priority":"High","created_at":"2025-07-14T15:19:31.615658461Z","due_date":null}
 {"id":6,"title":"Bericht schreiben","description":"Mit Deadline","finished":false,"priority":"Low","created_at":"2025-07-14T15:19:24.754614157Z","due_date":null}
 {"id":7,"title":"Bericht schreiben","description":null,"finished":false,"priority":"Medium","created_at":"2025-07-14T15:19:38.477149728Z","due_date":"2025-09-20"}
-{"id":8,"title":"Bug fixen","description":"Später erledigen","finished":false,"priority":"Low","created_at":"2025-07-14T15:19:28.341439697Z","due_date":null}
+{"id":8,"title":"Bug fixen lokal","description":"Später erledigen","finished":false,"priority":"Low","created_at":"2025-07-14T15:19:28.341439697Z","due_date":null}
 {"id":9,"title":"Bug fixen","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T15:19:34.790326332Z","due_date":null}
 {"id":10,"title":"tztz","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T15:19:10.731812473Z","due_date":"2025-07-15"}
 {"id":11,"title":"idj","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:41:59.115146472Z","due_date":null}
@@ -22,4 +22,4 @@
 {"id":21,"title":"lo","description":null,"finished":false,"priority":"Medium","created_at":"2025-07-14T15:19:14.209246084Z","due_date":null}
 {"id":22,"title":"REMM","description":null,"finished":false,"priority":"Medium","created_at":"2025-07-14T15:19:14.209246084Z","due_date":null}
 {"id":23,"title":"AAAAAAA","description":null,"finished":false,"priority":"Low","created_at":"2025-07-15T07:11:38.559698115Z","due_date":null}
-{"id":0,"title":"rust","description":null,"finished":false,"priority":"Low","created_at":"2025-07-15T10:28:42.311535064Z","due_date":null}
+{"id":24,"title":"rust","description":null,"finished":false,"priority":"Low","created_at":"2025-07-15T10:28:42.311535064Z","due_date":null}
