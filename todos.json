@@ -17,7 +17,6 @@
 {"id":15,"title":"lokal","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:35:08.017518914Z","due_date":null}
 {"id":16,"title":"merge1","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:56:50.471588949Z","due_date":null}
 {"id":17,"title":"mergeTest","description":null,"finished":false,"priority":"Low","created_at":"2025-07-14T17:23:23.888301765Z","due_date":null}
-{"id":18,"title":"REMOOOO","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:56:50.471588949Z","due_date":null}
 {"id":19,"title":"test123","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T07:35:08.017518914Z","due_date":null}
 {"id":20,"title":"lokal","description":null,"finished":false,"priority":"Low","created_at":"2025-07-01T09:56:50.471588949Z","due_date":null}
 {"id":21,"title":"lo","description":null,"finished":false,"priority":"Medium","created_at":"2025-07-14T15:19:14.209246084Z","due_date":null}
